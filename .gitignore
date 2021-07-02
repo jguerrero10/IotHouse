@@ -3,3 +3,6 @@
 __pycache__
 db.sqlite3
 migrations/
+generador_django.py
+.env
+.vscode
